@@ -1,7 +1,9 @@
-# TIPs
+**:warning: This is an archive repository that is not currently in use.**
 
-TON Improvement Proposals (TIPs) describe standards for the TON platform, including core protocol specifications, client APIs, and contract standards. Network updates as well as other global events for the TON project are also here.
+For network standards, the [TEPs](https://github.com/ton-blockchain/TEPs) repository is currently used.
 
-Please do not post bug reports here - they will be removed and you will be banned. For bug reports, contact TON Foundation Support or create an issue in the repository of a specific product.
+Previously, this repository was used to publish and discuss the first standards and updates of the network, documentation of components (like slashing or bridge), open letters, contests and earlier it was used as a task tracker.
 
-Any flood, off-topic messages and messages that make no sense will be deleted, and the author will be banned forever.
+*Please do not post bug reports here - they will be removed and you will be banned. For bug reports, contact TON Foundation Support or create an issue in the repository of a specific product*
+
+*Any flood, off-topic messages and messages that make no sense will be deleted, and the author will be banned forever.*
